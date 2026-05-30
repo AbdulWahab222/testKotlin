@@ -1,0 +1,6 @@
+{
+  "name": "Dev Companion",
+  "description": "An interactive Android development learning companion and material playground designed to kickstart your career.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
